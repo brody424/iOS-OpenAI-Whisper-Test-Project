@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     
     let apiKey = "Insert Api Key"
     let url = "https://api.openai.com/v1/audio/speech"
-    var audioPlayer: AVAudioPlayer?
+    var audioPlayer: AVAudioPlayer? 
     
     @IBOutlet weak var speedTitleLabel: UILabel!
     @IBOutlet weak var speedSlider: UISlider!
