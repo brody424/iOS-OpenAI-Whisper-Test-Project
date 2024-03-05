@@ -1,7 +1,6 @@
 # iOS-OpenAI-Whisper-Test-Project
 
-![Simulator](https://github.com/brody424/TIL/assets/15370950/993f62e9-30a2-4347-9ddb-22e2d05bc75c)
-
+<img width="300" alt="스크린샷 2023-07-03 오전 11 23 06" src="https://github.com/brody424/TIL/assets/15370950/993f62e9-30a2-4347-9ddb-22e2d05bc75c">
 
 This is a project to test the Whisper TTS function provided by OpenAI.
 
